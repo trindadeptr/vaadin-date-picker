@@ -8,11 +8,11 @@
       "sourceRange": {
         "file": "src/vaadin-date-picker.html",
         "start": {
-          "line": 295,
+          "line": 296,
           "column": 6
         },
         "end": {
-          "line": 295,
+          "line": 296,
           "column": 42
         }
       },
@@ -133,29 +133,6 @@
               "inheritedFrom": "Vaadin.DatePickerMixin"
             },
             {
-              "name": "hasValue",
-              "type": "boolean",
-              "description": "Indicates whether this date picker has a value.",
-              "privacy": "private",
-              "sourceRange": {
-                "file": "vaadin-date-picker-mixin.html",
-                "start": {
-                  "line": 66,
-                  "column": 8
-                },
-                "end": {
-                  "line": 70,
-                  "column": 9
-                }
-              },
-              "metadata": {
-                "polymer": {
-                  "readOnly": true
-                }
-              },
-              "inheritedFrom": "Vaadin.DatePickerMixin"
-            },
-            {
               "name": "initialPosition",
               "type": "string",
               "description": "Date which should be visible when there is no value selected.\n\nThe same date formats as for the `value` property are supported.",
@@ -163,11 +140,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 77,
+                  "line": 67,
                   "column": 8
                 },
                 "end": {
-                  "line": 77,
+                  "line": 67,
                   "column": 31
                 }
               },
@@ -184,11 +161,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 82,
+                  "line": 72,
                   "column": 8
                 },
                 "end": {
-                  "line": 82,
+                  "line": 72,
                   "column": 21
                 }
               },
@@ -205,11 +182,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 87,
+                  "line": 77,
                   "column": 8
                 },
                 "end": {
-                  "line": 91,
+                  "line": 81,
                   "column": 9
                 }
               },
@@ -228,11 +205,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 98,
+                  "line": 88,
                   "column": 8
                 },
                 "end": {
-                  "line": 100,
+                  "line": 90,
                   "column": 9
                 }
               },
@@ -249,11 +226,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 102,
+                  "line": 92,
                   "column": 8
                 },
                 "end": {
-                  "line": 105,
+                  "line": 95,
                   "column": 9
                 }
               },
@@ -273,11 +250,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 107,
+                  "line": 97,
                   "column": 8
                 },
                 "end": {
-                  "line": 109,
+                  "line": 99,
                   "column": 9
                 }
               },
@@ -295,11 +272,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 113,
+                  "line": 103,
                   "column": 8
                 },
                 "end": {
-                  "line": 113,
+                  "line": 103,
                   "column": 30
                 }
               },
@@ -316,11 +293,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 191,
+                  "line": 181,
                   "column": 8
                 },
                 "end": {
-                  "line": 244,
+                  "line": 234,
                   "column": 9
                 }
               },
@@ -337,11 +314,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 255,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 258,
+                  "line": 248,
                   "column": 9
                 }
               },
@@ -360,11 +337,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 269,
+                  "line": 259,
                   "column": 8
                 },
                 "end": {
-                  "line": 272,
+                  "line": 262,
                   "column": 9
                 }
               },
@@ -383,11 +360,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 277,
+                  "line": 267,
                   "column": 8
                 },
                 "end": {
-                  "line": 281,
+                  "line": 271,
                   "column": 9
                 }
               },
@@ -405,11 +382,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 286,
+                  "line": 276,
                   "column": 8
                 },
                 "end": {
-                  "line": 289,
+                  "line": 279,
                   "column": 9
                 }
               },
@@ -427,11 +404,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 291,
+                  "line": 281,
                   "column": 8
                 },
                 "end": {
-                  "line": 294,
+                  "line": 284,
                   "column": 9
                 }
               },
@@ -450,11 +427,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 296,
+                  "line": 286,
                   "column": 8
                 },
                 "end": {
-                  "line": 299,
+                  "line": 289,
                   "column": 9
                 }
               },
@@ -471,11 +448,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 301,
+                  "line": 291,
                   "column": 8
                 },
                 "end": {
-                  "line": 303,
+                  "line": 293,
                   "column": 9
                 }
               },
@@ -493,11 +470,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 305,
+                  "line": 295,
                   "column": 8
                 },
                 "end": {
-                  "line": 305,
+                  "line": 295,
                   "column": 36
                 }
               },
@@ -514,11 +491,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 313,
+                  "line": 303,
                   "column": 8
                 },
                 "end": {
-                  "line": 313,
+                  "line": 303,
                   "column": 38
                 }
               },
@@ -534,11 +511,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 105,
+                  "line": 104,
                   "column": 12
                 },
                 "end": {
-                  "line": 108,
+                  "line": 107,
                   "column": 13
                 }
               },
@@ -556,11 +533,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 326,
+                  "line": 317,
                   "column": 4
                 },
                 "end": {
-                  "line": 336,
+                  "line": 327,
                   "column": 5
                 }
               },
@@ -575,11 +552,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 341,
+                  "line": 332,
                   "column": 4
                 },
                 "end": {
-                  "line": 346,
+                  "line": 337,
                   "column": 5
                 }
               },
@@ -594,11 +571,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 348,
+                  "line": 339,
                   "column": 4
                 },
                 "end": {
-                  "line": 354,
+                  "line": 345,
                   "column": 5
                 }
               },
@@ -617,11 +594,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 359,
+                  "line": 350,
                   "column": 4
                 },
                 "end": {
-                  "line": 361,
+                  "line": 352,
                   "column": 5
                 }
               },
@@ -636,11 +613,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 377,
+                  "line": 368,
                   "column": 4
                 },
                 "end": {
-                  "line": 389,
+                  "line": 380,
                   "column": 5
                 }
               },
@@ -659,11 +636,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 391,
+                  "line": 382,
                   "column": 4
                 },
                 "end": {
-                  "line": 393,
+                  "line": 384,
                   "column": 5
                 }
               },
@@ -678,11 +655,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 395,
+                  "line": 386,
                   "column": 4
                 },
                 "end": {
-                  "line": 399,
+                  "line": 390,
                   "column": 5
                 }
               },
@@ -701,11 +678,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 401,
+                  "line": 392,
                   "column": 4
                 },
                 "end": {
-                  "line": 408,
+                  "line": 399,
                   "column": 5
                 }
               },
@@ -727,11 +704,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 410,
+                  "line": 401,
                   "column": 4
                 },
                 "end": {
-                  "line": 417,
+                  "line": 408,
                   "column": 5
                 }
               },
@@ -747,17 +724,17 @@
               "inheritedFrom": "Vaadin.DatePickerMixin"
             },
             {
-              "name": "_hasValue",
+              "name": "_updateHasValue",
               "description": "",
               "privacy": "protected",
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 419,
+                  "line": 410,
                   "column": 4
                 },
                 "end": {
-                  "line": 421,
+                  "line": 416,
                   "column": 5
                 }
               },
@@ -776,11 +753,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 423,
+                  "line": 418,
                   "column": 4
                 },
                 "end": {
-                  "line": 437,
+                  "line": 432,
                   "column": 5
                 }
               },
@@ -805,11 +782,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 439,
+                  "line": 434,
                   "column": 4
                 },
                 "end": {
-                  "line": 441,
+                  "line": 436,
                   "column": 5
                 }
               },
@@ -831,11 +808,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 443,
+                  "line": 438,
                   "column": 4
                 },
                 "end": {
-                  "line": 445,
+                  "line": 440,
                   "column": 5
                 }
               },
@@ -857,11 +834,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 447,
+                  "line": 442,
                   "column": 4
                 },
                 "end": {
-                  "line": 449,
+                  "line": 444,
                   "column": 5
                 }
               },
@@ -883,11 +860,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 451,
+                  "line": 446,
                   "column": 4
                 },
                 "end": {
-                  "line": 473,
+                  "line": 468,
                   "column": 5
                 }
               },
@@ -902,11 +879,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 475,
+                  "line": 470,
                   "column": 4
                 },
                 "end": {
-                  "line": 479,
+                  "line": 474,
                   "column": 5
                 }
               },
@@ -921,11 +898,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 481,
+                  "line": 476,
                   "column": 4
                 },
                 "end": {
-                  "line": 529,
+                  "line": 524,
                   "column": 5
                 }
               },
@@ -940,11 +917,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 533,
+                  "line": 528,
                   "column": 4
                 },
                 "end": {
-                  "line": 547,
+                  "line": 542,
                   "column": 5
                 }
               },
@@ -963,11 +940,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 549,
+                  "line": 544,
                   "column": 4
                 },
                 "end": {
-                  "line": 587,
+                  "line": 582,
                   "column": 5
                 }
               },
@@ -982,11 +959,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 589,
+                  "line": 584,
                   "column": 4
                 },
                 "end": {
-                  "line": 591,
+                  "line": 586,
                   "column": 5
                 }
               },
@@ -1001,11 +978,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 599,
+                  "line": 594,
                   "column": 4
                 },
                 "end": {
-                  "line": 602,
+                  "line": 597,
                   "column": 5
                 }
               },
@@ -1030,11 +1007,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 612,
+                  "line": 607,
                   "column": 4
                 },
                 "end": {
-                  "line": 629,
+                  "line": 624,
                   "column": 5
                 }
               },
@@ -1059,11 +1036,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 631,
+                  "line": 626,
                   "column": 4
                 },
                 "end": {
-                  "line": 635,
+                  "line": 630,
                   "column": 5
                 }
               },
@@ -1082,11 +1059,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 637,
+                  "line": 632,
                   "column": 4
                 },
                 "end": {
-                  "line": 642,
+                  "line": 637,
                   "column": 5
                 }
               },
@@ -1105,11 +1082,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 644,
+                  "line": 639,
                   "column": 4
                 },
                 "end": {
-                  "line": 650,
+                  "line": 645,
                   "column": 5
                 }
               },
@@ -1124,11 +1101,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 652,
+                  "line": 647,
                   "column": 4
                 },
                 "end": {
-                  "line": 655,
+                  "line": 650,
                   "column": 5
                 }
               },
@@ -1143,11 +1120,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 657,
+                  "line": 652,
                   "column": 4
                 },
                 "end": {
-                  "line": 661,
+                  "line": 656,
                   "column": 5
                 }
               },
@@ -1169,11 +1146,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 663,
+                  "line": 658,
                   "column": 4
                 },
                 "end": {
-                  "line": 665,
+                  "line": 660,
                   "column": 5
                 }
               },
@@ -1192,11 +1169,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 670,
+                  "line": 665,
                   "column": 4
                 },
                 "end": {
-                  "line": 679,
+                  "line": 674,
                   "column": 5
                 }
               },
@@ -1215,11 +1192,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 681,
+                  "line": 676,
                   "column": 4
                 },
                 "end": {
-                  "line": 683,
+                  "line": 678,
                   "column": 5
                 }
               },
@@ -1238,11 +1215,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 685,
+                  "line": 680,
                   "column": 4
                 },
                 "end": {
-                  "line": 738,
+                  "line": 733,
                   "column": 5
                 }
               },
@@ -1261,11 +1238,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 740,
+                  "line": 735,
                   "column": 4
                 },
                 "end": {
-                  "line": 744,
+                  "line": 739,
                   "column": 5
                 }
               },
@@ -1290,11 +1267,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 746,
+                  "line": 741,
                   "column": 4
                 },
                 "end": {
-                  "line": 757,
+                  "line": 752,
                   "column": 5
                 }
               },
@@ -1313,11 +1290,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 759,
+                  "line": 754,
                   "column": 4
                 },
                 "end": {
-                  "line": 768,
+                  "line": 763,
                   "column": 5
                 }
               },
@@ -1336,11 +1313,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 770,
+                  "line": 765,
                   "column": 4
                 },
                 "end": {
-                  "line": 774,
+                  "line": 769,
                   "column": 5
                 }
               },
@@ -1364,11 +1341,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 112,
+                  "line": 111,
                   "column": 8
                 },
                 "end": {
-                  "line": 116,
+                  "line": 115,
                   "column": 9
                 }
               },
@@ -1381,11 +1358,11 @@
           "metadata": {},
           "sourceRange": {
             "start": {
-              "line": 94,
+              "line": 93,
               "column": 6
             },
             "end": {
-              "line": 127,
+              "line": 126,
               "column": 7
             }
           },
@@ -1453,11 +1430,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 77,
+                  "line": 67,
                   "column": 8
                 },
                 "end": {
-                  "line": 77,
+                  "line": 67,
                   "column": 31
                 }
               },
@@ -1471,11 +1448,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 82,
+                  "line": 72,
                   "column": 8
                 },
                 "end": {
-                  "line": 82,
+                  "line": 72,
                   "column": 21
                 }
               },
@@ -1489,11 +1466,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 87,
+                  "line": 77,
                   "column": 8
                 },
                 "end": {
-                  "line": 91,
+                  "line": 81,
                   "column": 9
                 }
               },
@@ -1507,11 +1484,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 98,
+                  "line": 88,
                   "column": 8
                 },
                 "end": {
-                  "line": 100,
+                  "line": 90,
                   "column": 9
                 }
               },
@@ -1525,11 +1502,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 191,
+                  "line": 181,
                   "column": 8
                 },
                 "end": {
-                  "line": 244,
+                  "line": 234,
                   "column": 9
                 }
               },
@@ -1543,11 +1520,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 255,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 258,
+                  "line": 248,
                   "column": 9
                 }
               },
@@ -1561,11 +1538,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 269,
+                  "line": 259,
                   "column": 8
                 },
                 "end": {
-                  "line": 272,
+                  "line": 262,
                   "column": 9
                 }
               },
@@ -1578,11 +1555,11 @@
               "description": "Name of the two-way data-bindable property representing the\nvalue of the custom input field.",
               "sourceRange": {
                 "start": {
-                  "line": 105,
+                  "line": 104,
                   "column": 12
                 },
                 "end": {
-                  "line": 108,
+                  "line": 107,
                   "column": 13
                 }
               },
@@ -1602,11 +1579,11 @@
               "range": {
                 "file": "src/vaadin-date-picker-light.html",
                 "start": {
-                  "line": 30,
+                  "line": 29,
                   "column": 4
                 },
                 "end": {
-                  "line": 30,
+                  "line": 29,
                   "column": 17
                 }
               }
@@ -1618,7 +1595,7 @@
           ]
         },
         {
-          "description": "`<vaadin-date-picker>` is a date selection field which includes a scrollable\nmonth calendar view.\n```html\n<vaadin-date-picker label=\"Birthday\"></vaadin-date-picker>\n```\n```js\ndatePicker.value = '2016-03-02';\n```\nWhen the selected `value` is changed, a `value-changed` event is triggered.\n\n\n### Styling\n\nThe following shadow DOM parts are available for styling:\n\nPart name | Description | Theme for Element\n----------------|----------------|----------------\n`text-field` | Input element | vaadin-date-picker\n`clear-button` | Clear button | vaadin-date-picker\n`toggle-button` | Toggle button | vaadin-date-picker\n`overlay` | The overlay element | vaadin-date-picker\n`overlay` | The overlay element | vaadin-date-picker-light\n`overlay-header` | Fullscreen mode header | vaadin-date-picker-overlay\n`label` | Fullscreen mode value/label | vaadin-date-picker-overlay\n`clear-button` | Fullscreen mode clear button | vaadin-date-picker-overlay\n`toggle-button` | Fullscreen mode toggle button | vaadin-date-picker-overlay\n`years-toggle-button` | Fullscreen mode years scroller toggle | vaadin-date-picker-overlay\n`months` | Months scroller | vaadin-date-picker-overlay\n`years` | Years scroller | vaadin-date-picker-overlay\n`toolbar` | Footer bar with buttons | vaadin-date-picker-overlay\n`today-button` | Today button | vaadin-date-picker-overlay\n`cancel-button` | Cancel button | vaadin-date-picker-overlay\n`month` | Month calendar | vaadin-date-picker-overlay\n`year-number` | Year number | vaadin-date-picker-overlay\n`year-separator` | Year separator | vaadin-date-picker-overlay\n`month-header` | Month title | vaadin-month-calendar\n`weekdays` | Weekday container | vaadin-month-calendar\n`weekday` | Weekday element | vaadin-month-calendar\n`week-numbers` | Week numbers container | vaadin-month-calendar\n`week-number` | Week number element | vaadin-month-calendar\n`date` | Date element | vaadin-month-calendar\n\nThe following state attributes are available for styling:\n\nAttribute    | Description | Part name\n-------------|-------------|------------\n`invalid` | Set when the element is invalid | :host\n`opened` | Set when the date selector overlay is opened | :host\n`readonly` | Set when the element is readonly | :host\n\nIf you want to replace the default input field with a custom implementation, you should use the\n[`<vaadin-date-picker-light>`](#vaadin-date-picker-light) element.",
+          "description": "`<vaadin-date-picker>` is a date selection field which includes a scrollable\nmonth calendar view.\n```html\n<vaadin-date-picker label=\"Birthday\"></vaadin-date-picker>\n```\n```js\ndatePicker.value = '2016-03-02';\n```\nWhen the selected `value` is changed, a `value-changed` event is triggered.\n\n\n### Styling\n\nThe following shadow DOM parts are available for styling:\n\nPart name | Description | Theme for Element\n----------------|----------------|----------------\n`text-field` | Input element | vaadin-date-picker\n`clear-button` | Clear button | vaadin-date-picker\n`toggle-button` | Toggle button | vaadin-date-picker\n`overlay` | The overlay element | vaadin-date-picker\n`overlay` | The overlay element | vaadin-date-picker-light\n`overlay-header` | Fullscreen mode header | vaadin-date-picker-overlay\n`label` | Fullscreen mode value/label | vaadin-date-picker-overlay\n`clear-button` | Fullscreen mode clear button | vaadin-date-picker-overlay\n`toggle-button` | Fullscreen mode toggle button | vaadin-date-picker-overlay\n`years-toggle-button` | Fullscreen mode years scroller toggle | vaadin-date-picker-overlay\n`months` | Months scroller | vaadin-date-picker-overlay\n`years` | Years scroller | vaadin-date-picker-overlay\n`toolbar` | Footer bar with buttons | vaadin-date-picker-overlay\n`today-button` | Today button | vaadin-date-picker-overlay\n`cancel-button` | Cancel button | vaadin-date-picker-overlay\n`month` | Month calendar | vaadin-date-picker-overlay\n`year-number` | Year number | vaadin-date-picker-overlay\n`year-separator` | Year separator | vaadin-date-picker-overlay\n`month-header` | Month title | vaadin-month-calendar\n`weekdays` | Weekday container | vaadin-month-calendar\n`weekday` | Weekday element | vaadin-month-calendar\n`week-numbers` | Week numbers container | vaadin-month-calendar\n`week-number` | Week number element | vaadin-month-calendar\n`date` | Date element | vaadin-month-calendar\n\nThe following state attributes are available for styling:\n\nAttribute    | Description | Part name\n-------------|-------------|------------\n`invalid` | Set when the element is invalid | :host\n`opened` | Set when the date selector overlay is opened | :host\n`readonly` | Set when the element is readonly | :host\n\nIf you want to replace the default input field with a custom implementation, you should use the\n[`<vaadin-date-picker-light>`](#vaadin-date-picker-light) element.\n\nSee [ThemableMixin – how to apply styles for shadow parts](https://github.com/vaadin/vaadin-themable-mixin/wiki)",
           "summary": "",
           "path": "src/vaadin-date-picker.html",
           "properties": [
@@ -1733,29 +1710,6 @@
               "inheritedFrom": "Vaadin.DatePickerMixin"
             },
             {
-              "name": "hasValue",
-              "type": "boolean",
-              "description": "Indicates whether this date picker has a value.",
-              "privacy": "private",
-              "sourceRange": {
-                "file": "vaadin-date-picker-mixin.html",
-                "start": {
-                  "line": 66,
-                  "column": 8
-                },
-                "end": {
-                  "line": 70,
-                  "column": 9
-                }
-              },
-              "metadata": {
-                "polymer": {
-                  "readOnly": true
-                }
-              },
-              "inheritedFrom": "Vaadin.DatePickerMixin"
-            },
-            {
               "name": "initialPosition",
               "type": "string",
               "description": "Date which should be visible when there is no value selected.\n\nThe same date formats as for the `value` property are supported.",
@@ -1763,11 +1717,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 77,
+                  "line": 67,
                   "column": 8
                 },
                 "end": {
-                  "line": 77,
+                  "line": 67,
                   "column": 31
                 }
               },
@@ -1784,11 +1738,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 82,
+                  "line": 72,
                   "column": 8
                 },
                 "end": {
-                  "line": 82,
+                  "line": 72,
                   "column": 21
                 }
               },
@@ -1805,11 +1759,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 87,
+                  "line": 77,
                   "column": 8
                 },
                 "end": {
-                  "line": 91,
+                  "line": 81,
                   "column": 9
                 }
               },
@@ -1828,11 +1782,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 98,
+                  "line": 88,
                   "column": 8
                 },
                 "end": {
-                  "line": 100,
+                  "line": 90,
                   "column": 9
                 }
               },
@@ -1849,11 +1803,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 102,
+                  "line": 92,
                   "column": 8
                 },
                 "end": {
-                  "line": 105,
+                  "line": 95,
                   "column": 9
                 }
               },
@@ -1873,11 +1827,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 107,
+                  "line": 97,
                   "column": 8
                 },
                 "end": {
-                  "line": 109,
+                  "line": 99,
                   "column": 9
                 }
               },
@@ -1895,11 +1849,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 113,
+                  "line": 103,
                   "column": 8
                 },
                 "end": {
-                  "line": 113,
+                  "line": 103,
                   "column": 30
                 }
               },
@@ -1916,11 +1870,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 191,
+                  "line": 181,
                   "column": 8
                 },
                 "end": {
-                  "line": 244,
+                  "line": 234,
                   "column": 9
                 }
               },
@@ -1937,11 +1891,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 255,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 258,
+                  "line": 248,
                   "column": 9
                 }
               },
@@ -1960,11 +1914,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 269,
+                  "line": 259,
                   "column": 8
                 },
                 "end": {
-                  "line": 272,
+                  "line": 262,
                   "column": 9
                 }
               },
@@ -1983,11 +1937,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 277,
+                  "line": 267,
                   "column": 8
                 },
                 "end": {
-                  "line": 281,
+                  "line": 271,
                   "column": 9
                 }
               },
@@ -2005,11 +1959,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 286,
+                  "line": 276,
                   "column": 8
                 },
                 "end": {
-                  "line": 289,
+                  "line": 279,
                   "column": 9
                 }
               },
@@ -2027,11 +1981,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 291,
+                  "line": 281,
                   "column": 8
                 },
                 "end": {
-                  "line": 294,
+                  "line": 284,
                   "column": 9
                 }
               },
@@ -2050,11 +2004,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 296,
+                  "line": 286,
                   "column": 8
                 },
                 "end": {
-                  "line": 299,
+                  "line": 289,
                   "column": 9
                 }
               },
@@ -2071,11 +2025,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 301,
+                  "line": 291,
                   "column": 8
                 },
                 "end": {
-                  "line": 303,
+                  "line": 293,
                   "column": 9
                 }
               },
@@ -2093,11 +2047,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 305,
+                  "line": 295,
                   "column": 8
                 },
                 "end": {
-                  "line": 305,
+                  "line": 295,
                   "column": 36
                 }
               },
@@ -2114,11 +2068,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 313,
+                  "line": 303,
                   "column": 8
                 },
                 "end": {
-                  "line": 313,
+                  "line": 303,
                   "column": 38
                 }
               },
@@ -2134,11 +2088,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 199,
+                  "line": 200,
                   "column": 12
                 },
                 "end": {
-                  "line": 203,
+                  "line": 204,
                   "column": 13
                 }
               },
@@ -2154,11 +2108,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 208,
+                  "line": 209,
                   "column": 12
                 },
                 "end": {
-                  "line": 208,
+                  "line": 209,
                   "column": 32
                 }
               },
@@ -2173,11 +2127,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 213,
+                  "line": 214,
                   "column": 12
                 },
                 "end": {
-                  "line": 213,
+                  "line": 214,
                   "column": 31
                 }
               },
@@ -2192,11 +2146,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 218,
+                  "line": 219,
                   "column": 12
                 },
                 "end": {
-                  "line": 222,
+                  "line": 223,
                   "column": 13
                 }
               },
@@ -2212,11 +2166,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 227,
+                  "line": 228,
                   "column": 12
                 },
                 "end": {
-                  "line": 232,
+                  "line": 233,
                   "column": 13
                 }
               },
@@ -2234,11 +2188,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 234,
+                  "line": 235,
                   "column": 12
                 },
                 "end": {
-                  "line": 234,
+                  "line": 235,
                   "column": 35
                 }
               },
@@ -2254,11 +2208,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 244,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 252,
+                  "line": 253,
                   "column": 9
                 }
               },
@@ -2272,11 +2226,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 341,
+                  "line": 332,
                   "column": 4
                 },
                 "end": {
-                  "line": 346,
+                  "line": 337,
                   "column": 5
                 }
               },
@@ -2291,11 +2245,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 348,
+                  "line": 339,
                   "column": 4
                 },
                 "end": {
-                  "line": 354,
+                  "line": 345,
                   "column": 5
                 }
               },
@@ -2314,11 +2268,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 359,
+                  "line": 350,
                   "column": 4
                 },
                 "end": {
-                  "line": 361,
+                  "line": 352,
                   "column": 5
                 }
               },
@@ -2333,11 +2287,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 377,
+                  "line": 368,
                   "column": 4
                 },
                 "end": {
-                  "line": 389,
+                  "line": 380,
                   "column": 5
                 }
               },
@@ -2356,11 +2310,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 391,
+                  "line": 382,
                   "column": 4
                 },
                 "end": {
-                  "line": 393,
+                  "line": 384,
                   "column": 5
                 }
               },
@@ -2375,11 +2329,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 395,
+                  "line": 386,
                   "column": 4
                 },
                 "end": {
-                  "line": 399,
+                  "line": 390,
                   "column": 5
                 }
               },
@@ -2398,11 +2352,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 401,
+                  "line": 392,
                   "column": 4
                 },
                 "end": {
-                  "line": 408,
+                  "line": 399,
                   "column": 5
                 }
               },
@@ -2424,11 +2378,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 410,
+                  "line": 401,
                   "column": 4
                 },
                 "end": {
-                  "line": 417,
+                  "line": 408,
                   "column": 5
                 }
               },
@@ -2444,17 +2398,17 @@
               "inheritedFrom": "Vaadin.DatePickerMixin"
             },
             {
-              "name": "_hasValue",
+              "name": "_updateHasValue",
               "description": "",
               "privacy": "protected",
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 419,
+                  "line": 410,
                   "column": 4
                 },
                 "end": {
-                  "line": 421,
+                  "line": 416,
                   "column": 5
                 }
               },
@@ -2473,11 +2427,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 423,
+                  "line": 418,
                   "column": 4
                 },
                 "end": {
-                  "line": 437,
+                  "line": 432,
                   "column": 5
                 }
               },
@@ -2502,11 +2456,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 439,
+                  "line": 434,
                   "column": 4
                 },
                 "end": {
-                  "line": 441,
+                  "line": 436,
                   "column": 5
                 }
               },
@@ -2528,11 +2482,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 443,
+                  "line": 438,
                   "column": 4
                 },
                 "end": {
-                  "line": 445,
+                  "line": 440,
                   "column": 5
                 }
               },
@@ -2554,11 +2508,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 447,
+                  "line": 442,
                   "column": 4
                 },
                 "end": {
-                  "line": 449,
+                  "line": 444,
                   "column": 5
                 }
               },
@@ -2580,11 +2534,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 451,
+                  "line": 446,
                   "column": 4
                 },
                 "end": {
-                  "line": 473,
+                  "line": 468,
                   "column": 5
                 }
               },
@@ -2599,11 +2553,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 475,
+                  "line": 470,
                   "column": 4
                 },
                 "end": {
-                  "line": 479,
+                  "line": 474,
                   "column": 5
                 }
               },
@@ -2618,11 +2572,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 481,
+                  "line": 476,
                   "column": 4
                 },
                 "end": {
-                  "line": 529,
+                  "line": 524,
                   "column": 5
                 }
               },
@@ -2637,11 +2591,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 533,
+                  "line": 528,
                   "column": 4
                 },
                 "end": {
-                  "line": 547,
+                  "line": 542,
                   "column": 5
                 }
               },
@@ -2660,11 +2614,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 549,
+                  "line": 544,
                   "column": 4
                 },
                 "end": {
-                  "line": 587,
+                  "line": 582,
                   "column": 5
                 }
               },
@@ -2679,11 +2633,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 589,
+                  "line": 584,
                   "column": 4
                 },
                 "end": {
-                  "line": 591,
+                  "line": 586,
                   "column": 5
                 }
               },
@@ -2698,11 +2652,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 599,
+                  "line": 594,
                   "column": 4
                 },
                 "end": {
-                  "line": 602,
+                  "line": 597,
                   "column": 5
                 }
               },
@@ -2727,11 +2681,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 612,
+                  "line": 607,
                   "column": 4
                 },
                 "end": {
-                  "line": 629,
+                  "line": 624,
                   "column": 5
                 }
               },
@@ -2756,11 +2710,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 631,
+                  "line": 626,
                   "column": 4
                 },
                 "end": {
-                  "line": 635,
+                  "line": 630,
                   "column": 5
                 }
               },
@@ -2779,11 +2733,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 637,
+                  "line": 632,
                   "column": 4
                 },
                 "end": {
-                  "line": 642,
+                  "line": 637,
                   "column": 5
                 }
               },
@@ -2802,11 +2756,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 644,
+                  "line": 639,
                   "column": 4
                 },
                 "end": {
-                  "line": 650,
+                  "line": 645,
                   "column": 5
                 }
               },
@@ -2821,11 +2775,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 652,
+                  "line": 647,
                   "column": 4
                 },
                 "end": {
-                  "line": 655,
+                  "line": 650,
                   "column": 5
                 }
               },
@@ -2840,11 +2794,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 657,
+                  "line": 652,
                   "column": 4
                 },
                 "end": {
-                  "line": 661,
+                  "line": 656,
                   "column": 5
                 }
               },
@@ -2866,11 +2820,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 663,
+                  "line": 658,
                   "column": 4
                 },
                 "end": {
-                  "line": 665,
+                  "line": 660,
                   "column": 5
                 }
               },
@@ -2889,11 +2843,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 670,
+                  "line": 665,
                   "column": 4
                 },
                 "end": {
-                  "line": 679,
+                  "line": 674,
                   "column": 5
                 }
               },
@@ -2912,11 +2866,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 681,
+                  "line": 676,
                   "column": 4
                 },
                 "end": {
-                  "line": 683,
+                  "line": 678,
                   "column": 5
                 }
               },
@@ -2935,11 +2889,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 685,
+                  "line": 680,
                   "column": 4
                 },
                 "end": {
-                  "line": 738,
+                  "line": 733,
                   "column": 5
                 }
               },
@@ -2958,11 +2912,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 740,
+                  "line": 735,
                   "column": 4
                 },
                 "end": {
-                  "line": 744,
+                  "line": 739,
                   "column": 5
                 }
               },
@@ -2987,11 +2941,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 746,
+                  "line": 741,
                   "column": 4
                 },
                 "end": {
-                  "line": 757,
+                  "line": 752,
                   "column": 5
                 }
               },
@@ -3010,11 +2964,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 759,
+                  "line": 754,
                   "column": 4
                 },
                 "end": {
-                  "line": 768,
+                  "line": 763,
                   "column": 5
                 }
               },
@@ -3033,11 +2987,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 770,
+                  "line": 765,
                   "column": 4
                 },
                 "end": {
-                  "line": 774,
+                  "line": 769,
                   "column": 5
                 }
               },
@@ -3119,11 +3073,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 254,
+                  "line": 255,
                   "column": 8
                 },
                 "end": {
-                  "line": 259,
+                  "line": 260,
                   "column": 9
                 }
               },
@@ -3140,11 +3094,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 261,
+                  "line": 262,
                   "column": 8
                 },
                 "end": {
-                  "line": 264,
+                  "line": 265,
                   "column": 9
                 }
               },
@@ -3161,11 +3115,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 266,
+                  "line": 267,
                   "column": 8
                 },
                 "end": {
-                  "line": 268,
+                  "line": 269,
                   "column": 9
                 }
               },
@@ -3178,11 +3132,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 278,
+                  "line": 279,
                   "column": 8
                 },
                 "end": {
-                  "line": 280,
+                  "line": 281,
                   "column": 9
                 }
               },
@@ -3228,11 +3182,11 @@
           "metadata": {},
           "sourceRange": {
             "start": {
-              "line": 181,
+              "line": 182,
               "column": 6
             },
             "end": {
-              "line": 288,
+              "line": 289,
               "column": 7
             }
           },
@@ -3300,11 +3254,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 77,
+                  "line": 67,
                   "column": 8
                 },
                 "end": {
-                  "line": 77,
+                  "line": 67,
                   "column": 31
                 }
               },
@@ -3318,11 +3272,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 82,
+                  "line": 72,
                   "column": 8
                 },
                 "end": {
-                  "line": 82,
+                  "line": 72,
                   "column": 21
                 }
               },
@@ -3336,11 +3290,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 87,
+                  "line": 77,
                   "column": 8
                 },
                 "end": {
-                  "line": 91,
+                  "line": 81,
                   "column": 9
                 }
               },
@@ -3354,11 +3308,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 98,
+                  "line": 88,
                   "column": 8
                 },
                 "end": {
-                  "line": 100,
+                  "line": 90,
                   "column": 9
                 }
               },
@@ -3372,11 +3326,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 191,
+                  "line": 181,
                   "column": 8
                 },
                 "end": {
-                  "line": 244,
+                  "line": 234,
                   "column": 9
                 }
               },
@@ -3390,11 +3344,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 255,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 258,
+                  "line": 248,
                   "column": 9
                 }
               },
@@ -3408,11 +3362,11 @@
               "sourceRange": {
                 "file": "vaadin-date-picker-mixin.html",
                 "start": {
-                  "line": 269,
+                  "line": 259,
                   "column": 8
                 },
                 "end": {
-                  "line": 272,
+                  "line": 262,
                   "column": 9
                 }
               },
@@ -3425,11 +3379,11 @@
               "description": "Set to true to disable this element.",
               "sourceRange": {
                 "start": {
-                  "line": 199,
+                  "line": 200,
                   "column": 12
                 },
                 "end": {
-                  "line": 203,
+                  "line": 204,
                   "column": 13
                 }
               },
@@ -3441,11 +3395,11 @@
               "description": "The error message to display when the input is invalid.",
               "sourceRange": {
                 "start": {
-                  "line": 208,
+                  "line": 209,
                   "column": 12
                 },
                 "end": {
-                  "line": 208,
+                  "line": 209,
                   "column": 32
                 }
               },
@@ -3457,11 +3411,11 @@
               "description": "A placeholder string in addition to the label. If this is set, the label will always float.",
               "sourceRange": {
                 "start": {
-                  "line": 213,
+                  "line": 214,
                   "column": 12
                 },
                 "end": {
-                  "line": 213,
+                  "line": 214,
                   "column": 31
                 }
               },
@@ -3473,11 +3427,11 @@
               "description": "Set to true to make this element read-only.",
               "sourceRange": {
                 "start": {
-                  "line": 218,
+                  "line": 219,
                   "column": 12
                 },
                 "end": {
-                  "line": 222,
+                  "line": 223,
                   "column": 13
                 }
               },
@@ -3489,11 +3443,11 @@
               "description": "This property is set to true when the control value invalid.",
               "sourceRange": {
                 "start": {
-                  "line": 227,
+                  "line": 228,
                   "column": 12
                 },
                 "end": {
-                  "line": 232,
+                  "line": 233,
                   "column": 13
                 }
               },
@@ -3520,11 +3474,11 @@
               "range": {
                 "file": "src/vaadin-date-picker.html",
                 "start": {
-                  "line": 83,
+                  "line": 82,
                   "column": 6
                 },
                 "end": {
-                  "line": 83,
+                  "line": 82,
                   "column": 47
                 }
               }
@@ -3645,38 +3599,17 @@
               }
             },
             {
-              "name": "hasValue",
-              "type": "boolean",
-              "description": "Indicates whether this date picker has a value.",
-              "privacy": "private",
-              "sourceRange": {
-                "start": {
-                  "line": 66,
-                  "column": 8
-                },
-                "end": {
-                  "line": 70,
-                  "column": 9
-                }
-              },
-              "metadata": {
-                "polymer": {
-                  "readOnly": true
-                }
-              }
-            },
-            {
               "name": "initialPosition",
               "type": "string",
               "description": "Date which should be visible when there is no value selected.\n\nThe same date formats as for the `value` property are supported.",
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 77,
+                  "line": 67,
                   "column": 8
                 },
                 "end": {
-                  "line": 77,
+                  "line": 67,
                   "column": 31
                 }
               },
@@ -3691,11 +3624,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 82,
+                  "line": 72,
                   "column": 8
                 },
                 "end": {
-                  "line": 82,
+                  "line": 72,
                   "column": 21
                 }
               },
@@ -3710,11 +3643,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 87,
+                  "line": 77,
                   "column": 8
                 },
                 "end": {
-                  "line": 91,
+                  "line": 81,
                   "column": 9
                 }
               },
@@ -3731,11 +3664,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 98,
+                  "line": 88,
                   "column": 8
                 },
                 "end": {
-                  "line": 100,
+                  "line": 90,
                   "column": 9
                 }
               },
@@ -3750,11 +3683,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 102,
+                  "line": 92,
                   "column": 8
                 },
                 "end": {
-                  "line": 105,
+                  "line": 95,
                   "column": 9
                 }
               },
@@ -3772,11 +3705,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 107,
+                  "line": 97,
                   "column": 8
                 },
                 "end": {
-                  "line": 109,
+                  "line": 99,
                   "column": 9
                 }
               },
@@ -3792,11 +3725,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 113,
+                  "line": 103,
                   "column": 8
                 },
                 "end": {
-                  "line": 113,
+                  "line": 103,
                   "column": 30
                 }
               },
@@ -3811,11 +3744,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 191,
+                  "line": 181,
                   "column": 8
                 },
                 "end": {
-                  "line": 244,
+                  "line": 234,
                   "column": 9
                 }
               },
@@ -3830,11 +3763,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 255,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 258,
+                  "line": 248,
                   "column": 9
                 }
               },
@@ -3851,11 +3784,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 269,
+                  "line": 259,
                   "column": 8
                 },
                 "end": {
-                  "line": 272,
+                  "line": 262,
                   "column": 9
                 }
               },
@@ -3872,11 +3805,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 277,
+                  "line": 267,
                   "column": 8
                 },
                 "end": {
-                  "line": 281,
+                  "line": 271,
                   "column": 9
                 }
               },
@@ -3892,11 +3825,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 286,
+                  "line": 276,
                   "column": 8
                 },
                 "end": {
-                  "line": 289,
+                  "line": 279,
                   "column": 9
                 }
               },
@@ -3912,11 +3845,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 291,
+                  "line": 281,
                   "column": 8
                 },
                 "end": {
-                  "line": 294,
+                  "line": 284,
                   "column": 9
                 }
               },
@@ -3933,11 +3866,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 296,
+                  "line": 286,
                   "column": 8
                 },
                 "end": {
-                  "line": 299,
+                  "line": 289,
                   "column": 9
                 }
               },
@@ -3952,11 +3885,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 301,
+                  "line": 291,
                   "column": 8
                 },
                 "end": {
-                  "line": 303,
+                  "line": 293,
                   "column": 9
                 }
               },
@@ -3972,11 +3905,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 305,
+                  "line": 295,
                   "column": 8
                 },
                 "end": {
-                  "line": 305,
+                  "line": 295,
                   "column": 36
                 }
               },
@@ -3991,11 +3924,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 313,
+                  "line": 303,
                   "column": 8
                 },
                 "end": {
-                  "line": 313,
+                  "line": 303,
                   "column": 38
                 }
               },
@@ -4011,11 +3944,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 326,
+                  "line": 317,
                   "column": 4
                 },
                 "end": {
-                  "line": 336,
+                  "line": 327,
                   "column": 5
                 }
               },
@@ -4028,11 +3961,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 341,
+                  "line": 332,
                   "column": 4
                 },
                 "end": {
-                  "line": 346,
+                  "line": 337,
                   "column": 5
                 }
               },
@@ -4045,11 +3978,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 348,
+                  "line": 339,
                   "column": 4
                 },
                 "end": {
-                  "line": 354,
+                  "line": 345,
                   "column": 5
                 }
               },
@@ -4066,11 +3999,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 359,
+                  "line": 350,
                   "column": 4
                 },
                 "end": {
-                  "line": 361,
+                  "line": 352,
                   "column": 5
                 }
               },
@@ -4083,11 +4016,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 377,
+                  "line": 368,
                   "column": 4
                 },
                 "end": {
-                  "line": 389,
+                  "line": 380,
                   "column": 5
                 }
               },
@@ -4104,11 +4037,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 391,
+                  "line": 382,
                   "column": 4
                 },
                 "end": {
-                  "line": 393,
+                  "line": 384,
                   "column": 5
                 }
               },
@@ -4121,11 +4054,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 395,
+                  "line": 386,
                   "column": 4
                 },
                 "end": {
-                  "line": 399,
+                  "line": 390,
                   "column": 5
                 }
               },
@@ -4142,11 +4075,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 401,
+                  "line": 392,
                   "column": 4
                 },
                 "end": {
-                  "line": 408,
+                  "line": 399,
                   "column": 5
                 }
               },
@@ -4166,11 +4099,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 410,
+                  "line": 401,
                   "column": 4
                 },
                 "end": {
-                  "line": 417,
+                  "line": 408,
                   "column": 5
                 }
               },
@@ -4185,16 +4118,16 @@
               ]
             },
             {
-              "name": "_hasValue",
+              "name": "_updateHasValue",
               "description": "",
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 419,
+                  "line": 410,
                   "column": 4
                 },
                 "end": {
-                  "line": 421,
+                  "line": 416,
                   "column": 5
                 }
               },
@@ -4211,11 +4144,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 423,
+                  "line": 418,
                   "column": 4
                 },
                 "end": {
-                  "line": 437,
+                  "line": 432,
                   "column": 5
                 }
               },
@@ -4238,11 +4171,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 439,
+                  "line": 434,
                   "column": 4
                 },
                 "end": {
-                  "line": 441,
+                  "line": 436,
                   "column": 5
                 }
               },
@@ -4262,11 +4195,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 443,
+                  "line": 438,
                   "column": 4
                 },
                 "end": {
-                  "line": 445,
+                  "line": 440,
                   "column": 5
                 }
               },
@@ -4286,11 +4219,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 447,
+                  "line": 442,
                   "column": 4
                 },
                 "end": {
-                  "line": 449,
+                  "line": 444,
                   "column": 5
                 }
               },
@@ -4310,11 +4243,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 451,
+                  "line": 446,
                   "column": 4
                 },
                 "end": {
-                  "line": 473,
+                  "line": 468,
                   "column": 5
                 }
               },
@@ -4327,11 +4260,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 475,
+                  "line": 470,
                   "column": 4
                 },
                 "end": {
-                  "line": 479,
+                  "line": 474,
                   "column": 5
                 }
               },
@@ -4344,11 +4277,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 481,
+                  "line": 476,
                   "column": 4
                 },
                 "end": {
-                  "line": 529,
+                  "line": 524,
                   "column": 5
                 }
               },
@@ -4361,11 +4294,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 533,
+                  "line": 528,
                   "column": 4
                 },
                 "end": {
-                  "line": 547,
+                  "line": 542,
                   "column": 5
                 }
               },
@@ -4382,11 +4315,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 549,
+                  "line": 544,
                   "column": 4
                 },
                 "end": {
-                  "line": 587,
+                  "line": 582,
                   "column": 5
                 }
               },
@@ -4399,11 +4332,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 589,
+                  "line": 584,
                   "column": 4
                 },
                 "end": {
-                  "line": 591,
+                  "line": 586,
                   "column": 5
                 }
               },
@@ -4416,11 +4349,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 599,
+                  "line": 594,
                   "column": 4
                 },
                 "end": {
-                  "line": 602,
+                  "line": 597,
                   "column": 5
                 }
               },
@@ -4443,11 +4376,11 @@
               "privacy": "public",
               "sourceRange": {
                 "start": {
-                  "line": 612,
+                  "line": 607,
                   "column": 4
                 },
                 "end": {
-                  "line": 629,
+                  "line": 624,
                   "column": 5
                 }
               },
@@ -4470,11 +4403,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 631,
+                  "line": 626,
                   "column": 4
                 },
                 "end": {
-                  "line": 635,
+                  "line": 630,
                   "column": 5
                 }
               },
@@ -4491,11 +4424,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 637,
+                  "line": 632,
                   "column": 4
                 },
                 "end": {
-                  "line": 642,
+                  "line": 637,
                   "column": 5
                 }
               },
@@ -4512,11 +4445,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 644,
+                  "line": 639,
                   "column": 4
                 },
                 "end": {
-                  "line": 650,
+                  "line": 645,
                   "column": 5
                 }
               },
@@ -4529,11 +4462,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 652,
+                  "line": 647,
                   "column": 4
                 },
                 "end": {
-                  "line": 655,
+                  "line": 650,
                   "column": 5
                 }
               },
@@ -4546,11 +4479,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 657,
+                  "line": 652,
                   "column": 4
                 },
                 "end": {
-                  "line": 661,
+                  "line": 656,
                   "column": 5
                 }
               },
@@ -4570,11 +4503,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 663,
+                  "line": 658,
                   "column": 4
                 },
                 "end": {
-                  "line": 665,
+                  "line": 660,
                   "column": 5
                 }
               },
@@ -4591,11 +4524,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 670,
+                  "line": 665,
                   "column": 4
                 },
                 "end": {
-                  "line": 679,
+                  "line": 674,
                   "column": 5
                 }
               },
@@ -4612,11 +4545,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 681,
+                  "line": 676,
                   "column": 4
                 },
                 "end": {
-                  "line": 683,
+                  "line": 678,
                   "column": 5
                 }
               },
@@ -4633,11 +4566,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 685,
+                  "line": 680,
                   "column": 4
                 },
                 "end": {
-                  "line": 738,
+                  "line": 733,
                   "column": 5
                 }
               },
@@ -4654,11 +4587,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 740,
+                  "line": 735,
                   "column": 4
                 },
                 "end": {
-                  "line": 744,
+                  "line": 739,
                   "column": 5
                 }
               },
@@ -4681,11 +4614,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 746,
+                  "line": 741,
                   "column": 4
                 },
                 "end": {
-                  "line": 757,
+                  "line": 752,
                   "column": 5
                 }
               },
@@ -4702,11 +4635,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 759,
+                  "line": 754,
                   "column": 4
                 },
                 "end": {
-                  "line": 768,
+                  "line": 763,
                   "column": 5
                 }
               },
@@ -4723,11 +4656,11 @@
               "privacy": "protected",
               "sourceRange": {
                 "start": {
-                  "line": 770,
+                  "line": 765,
                   "column": 4
                 },
                 "end": {
-                  "line": 774,
+                  "line": 769,
                   "column": 5
                 }
               },
@@ -4754,7 +4687,7 @@
               "column": 2
             },
             "end": {
-              "line": 775,
+              "line": 770,
               "column": 3
             }
           },
@@ -4814,11 +4747,11 @@
               "description": "Date which should be visible when there is no value selected.\n\nThe same date formats as for the `value` property are supported.",
               "sourceRange": {
                 "start": {
-                  "line": 77,
+                  "line": 67,
                   "column": 8
                 },
                 "end": {
-                  "line": 77,
+                  "line": 67,
                   "column": 31
                 }
               },
@@ -4830,11 +4763,11 @@
               "description": "The label for this element.",
               "sourceRange": {
                 "start": {
-                  "line": 82,
+                  "line": 72,
                   "column": 8
                 },
                 "end": {
-                  "line": 82,
+                  "line": 72,
                   "column": 21
                 }
               },
@@ -4846,11 +4779,11 @@
               "description": "Set true to open the date selector overlay.",
               "sourceRange": {
                 "start": {
-                  "line": 87,
+                  "line": 77,
                   "column": 8
                 },
                 "end": {
-                  "line": 91,
+                  "line": 81,
                   "column": 9
                 }
               },
@@ -4862,11 +4795,11 @@
               "description": "Set true to display ISO-8601 week numbers in the calendar. Notice that\ndisplaying week numbers is only supported when `i18n.firstDayOfWeek`\nis 1 (Monday).",
               "sourceRange": {
                 "start": {
-                  "line": 98,
+                  "line": 88,
                   "column": 8
                 },
                 "end": {
-                  "line": 100,
+                  "line": 90,
                   "column": 9
                 }
               },
@@ -4878,11 +4811,11 @@
               "description": "The object used to localize this component.\nTo change the default localization, replace the entire\n_i18n_ object or just the property you want to modify.\n\nThe object has the following JSON structure and default values:\n\n            {\n              // An array with the full names of months starting\n              // with January.\n              monthNames: [\n                'January', 'February', 'March', 'April', 'May',\n                'June', 'July', 'August', 'September',\n                'October', 'November', 'December'\n              ],\n\n              // An array of weekday names starting with Sunday. Used\n              // in screen reader announcements.\n              weekdays: [\n                'Sunday', 'Monday', 'Tuesday', 'Wednesday',\n                'Thursday', 'Friday', 'Saturday'\n              ],\n\n              // An array of short weekday names starting with Sunday.\n              // Displayed in the calendar.\n              weekdaysShort: [\n                'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'\n              ],\n\n              // An integer indicating the first day of the week\n              // (0 = Sunday, 1 = Monday, etc.).\n              firstDayOfWeek: 0,\n\n              // Used in screen reader announcements along with week\n              // numbers, if they are displayed.\n              week: 'Week',\n\n              // Translation of the Calendar icon button title.\n              calendar: 'Calendar',\n\n              // Translation of the Clear icon button title.\n              clear: 'Clear',\n\n              // Translation of the Today shortcut button text.\n              today: 'Today',\n\n              // Translation of the Cancel button text.\n              cancel: 'Cancel',\n\n              // A function to format given `Date` object as\n              // date string.\n              formatDate: d => {\n                // returns a string representation of the given\n                // Date object in 'MM/DD/YYYY' -format\n              },\n\n              // A function to parse the given text to a `Date`\n              // object. Must properly parse (at least) text\n              // formatted by `formatDate`.\n              // Setting the property to null will disable\n              // keyboard input feature.\n              parseDate: text => {\n                // Parses a string in 'MM/DD/YY', 'MM/DD' or 'DD' -format to\n                // a Date object\n              }\n\n              // A function to format given `monthName` and\n              // `fullYear` integer as calendar title string.\n              formatTitle: (monthName, fullYear) => {\n                return monthName + ' ' + fullYear;\n              }\n            }",
               "sourceRange": {
                 "start": {
-                  "line": 191,
+                  "line": 181,
                   "column": 8
                 },
                 "end": {
-                  "line": 244,
+                  "line": 234,
                   "column": 9
                 }
               },
@@ -4894,11 +4827,11 @@
               "description": "The earliest date that can be selected. All earlier dates will be disabled.\n\nSupported date formats:\n- ISO 8601 `\"YYYY-MM-DD\"` (default)\n- 6-digit extended ISO 8601 `\"+YYYYYY-MM-DD\"`, `\"-YYYYYY-MM-DD\"`",
               "sourceRange": {
                 "start": {
-                  "line": 255,
+                  "line": 245,
                   "column": 8
                 },
                 "end": {
-                  "line": 258,
+                  "line": 248,
                   "column": 9
                 }
               },
@@ -4910,11 +4843,11 @@
               "description": "The latest date that can be selected. All later dates will be disabled.\n\nSupported date formats:\n- ISO 8601 `\"YYYY-MM-DD\"` (default)\n- 6-digit extended ISO 8601 `\"+YYYYYY-MM-DD\"`, `\"-YYYYYY-MM-DD\"`",
               "sourceRange": {
                 "start": {
-                  "line": 269,
+                  "line": 259,
                   "column": 8
                 },
                 "end": {
-                  "line": 272,
+                  "line": 262,
                   "column": 9
                 }
               },
@@ -5094,11 +5027,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 107,
+              "line": 106,
               "column": 12
             },
             "end": {
-              "line": 110,
+              "line": 109,
               "column": 13
             }
           },
@@ -5113,11 +5046,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 115,
+              "line": 114,
               "column": 12
             },
             "end": {
-              "line": 118,
+              "line": 117,
               "column": 13
             }
           },
@@ -5134,11 +5067,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 123,
+              "line": 122,
               "column": 12
             },
             "end": {
-              "line": 123,
+              "line": 122,
               "column": 29
             }
           },
@@ -5153,11 +5086,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 125,
+              "line": 124,
               "column": 12
             },
             "end": {
-              "line": 128,
+              "line": 127,
               "column": 13
             }
           },
@@ -5173,11 +5106,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 130,
+              "line": 129,
               "column": 12
             },
             "end": {
-              "line": 132,
+              "line": 131,
               "column": 13
             }
           },
@@ -5192,11 +5125,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 137,
+              "line": 136,
               "column": 12
             },
             "end": {
-              "line": 137,
+              "line": 136,
               "column": 31
             }
           },
@@ -5211,11 +5144,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 139,
+              "line": 138,
               "column": 12
             },
             "end": {
-              "line": 139,
+              "line": 138,
               "column": 32
             }
           },
@@ -5230,11 +5163,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 144,
+              "line": 143,
               "column": 12
             },
             "end": {
-              "line": 147,
+              "line": 146,
               "column": 13
             }
           },
@@ -5250,11 +5183,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 152,
+              "line": 151,
               "column": 12
             },
             "end": {
-              "line": 155,
+              "line": 154,
               "column": 13
             }
           },
@@ -5270,11 +5203,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 157,
+              "line": 156,
               "column": 12
             },
             "end": {
-              "line": 160,
+              "line": 159,
               "column": 13
             }
           },
@@ -5291,11 +5224,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 162,
+              "line": 161,
               "column": 12
             },
             "end": {
-              "line": 166,
+              "line": 165,
               "column": 13
             }
           },
@@ -5313,11 +5246,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 176,
+              "line": 175,
               "column": 8
             },
             "end": {
-              "line": 178,
+              "line": 177,
               "column": 9
             }
           },
@@ -5337,11 +5270,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 180,
+              "line": 179,
               "column": 8
             },
             "end": {
-              "line": 182,
+              "line": 181,
               "column": 9
             }
           },
@@ -5364,11 +5297,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 185,
+              "line": 184,
               "column": 8
             },
             "end": {
-              "line": 200,
+              "line": 199,
               "column": 9
             }
           },
@@ -5391,11 +5324,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 202,
+              "line": 201,
               "column": 8
             },
             "end": {
-              "line": 207,
+              "line": 206,
               "column": 9
             }
           },
@@ -5415,11 +5348,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 209,
+              "line": 208,
               "column": 8
             },
             "end": {
-              "line": 212,
+              "line": 211,
               "column": 9
             }
           },
@@ -5432,11 +5365,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 214,
+              "line": 213,
               "column": 8
             },
             "end": {
-              "line": 216,
+              "line": 215,
               "column": 9
             }
           },
@@ -5456,11 +5389,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 218,
+              "line": 217,
               "column": 8
             },
             "end": {
-              "line": 224,
+              "line": 223,
               "column": 9
             }
           },
@@ -5480,11 +5413,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 226,
+              "line": 225,
               "column": 8
             },
             "end": {
-              "line": 241,
+              "line": 240,
               "column": 9
             }
           },
@@ -5510,11 +5443,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 243,
+              "line": 242,
               "column": 8
             },
             "end": {
-              "line": 245,
+              "line": 244,
               "column": 9
             }
           },
@@ -5531,11 +5464,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 247,
+              "line": 246,
               "column": 8
             },
             "end": {
-              "line": 253,
+              "line": 252,
               "column": 9
             }
           },
@@ -5555,11 +5488,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 255,
+              "line": 254,
               "column": 8
             },
             "end": {
-              "line": 258,
+              "line": 257,
               "column": 9
             }
           },
@@ -5579,11 +5512,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 260,
+              "line": 259,
               "column": 8
             },
             "end": {
-              "line": 262,
+              "line": 261,
               "column": 9
             }
           },
@@ -5600,11 +5533,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 264,
+              "line": 263,
               "column": 8
             },
             "end": {
-              "line": 289,
+              "line": 288,
               "column": 9
             }
           },
@@ -5624,11 +5557,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 291,
+              "line": 290,
               "column": 8
             },
             "end": {
-              "line": 304,
+              "line": 303,
               "column": 9
             }
           },
@@ -5648,11 +5581,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 306,
+              "line": 305,
               "column": 8
             },
             "end": {
-              "line": 310,
+              "line": 309,
               "column": 9
             }
           },
@@ -5669,11 +5602,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 312,
+              "line": 311,
               "column": 8
             },
             "end": {
-              "line": 317,
+              "line": 316,
               "column": 9
             }
           },
@@ -5690,11 +5623,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 319,
+              "line": 318,
               "column": 8
             },
             "end": {
-              "line": 321,
+              "line": 320,
               "column": 9
             }
           },
@@ -5711,11 +5644,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 323,
+              "line": 322,
               "column": 8
             },
             "end": {
-              "line": 325,
+              "line": 324,
               "column": 9
             }
           },
@@ -5732,11 +5665,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 327,
+              "line": 326,
               "column": 8
             },
             "end": {
-              "line": 342,
+              "line": 341,
               "column": 9
             }
           },
@@ -5753,11 +5686,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 344,
+              "line": 343,
               "column": 8
             },
             "end": {
-              "line": 349,
+              "line": 348,
               "column": 9
             }
           },
@@ -5780,11 +5713,11 @@
       "metadata": {},
       "sourceRange": {
         "start": {
-          "line": 95,
+          "line": 94,
           "column": 6
         },
         "end": {
-          "line": 350,
+          "line": 349,
           "column": 7
         }
       },
@@ -5797,11 +5730,11 @@
           "description": "A `Date` object defining the month to be displayed. Only year and\nmonth properties are actually used.",
           "sourceRange": {
             "start": {
-              "line": 107,
+              "line": 106,
               "column": 12
             },
             "end": {
-              "line": 110,
+              "line": 109,
               "column": 13
             }
           },
@@ -5813,11 +5746,11 @@
           "description": "A `Date` object for the currently selected date.",
           "sourceRange": {
             "start": {
-              "line": 115,
+              "line": 114,
               "column": 12
             },
             "end": {
-              "line": 118,
+              "line": 117,
               "column": 13
             }
           },
@@ -5829,11 +5762,11 @@
           "description": "A `Date` object for the currently focused date.",
           "sourceRange": {
             "start": {
-              "line": 123,
+              "line": 122,
               "column": 12
             },
             "end": {
-              "line": 123,
+              "line": 122,
               "column": 29
             }
           },
@@ -5845,11 +5778,11 @@
           "description": "",
           "sourceRange": {
             "start": {
-              "line": 125,
+              "line": 124,
               "column": 12
             },
             "end": {
-              "line": 128,
+              "line": 127,
               "column": 13
             }
           },
@@ -5861,11 +5794,11 @@
           "description": "",
           "sourceRange": {
             "start": {
-              "line": 130,
+              "line": 129,
               "column": 12
             },
             "end": {
-              "line": 132,
+              "line": 131,
               "column": 13
             }
           },
@@ -5877,11 +5810,11 @@
           "description": "Flag stating whether taps on the component should be ignored.",
           "sourceRange": {
             "start": {
-              "line": 137,
+              "line": 136,
               "column": 12
             },
             "end": {
-              "line": 137,
+              "line": 136,
               "column": 31
             }
           },
@@ -5893,11 +5826,11 @@
           "description": "The earliest date that can be selected. All earlier dates will be disabled.",
           "sourceRange": {
             "start": {
-              "line": 144,
+              "line": 143,
               "column": 12
             },
             "end": {
-              "line": 147,
+              "line": 146,
               "column": 13
             }
           },
@@ -5909,11 +5842,11 @@
           "description": "The latest date that can be selected. All later dates will be disabled.",
           "sourceRange": {
             "start": {
-              "line": 152,
+              "line": 151,
               "column": 12
             },
             "end": {
-              "line": 155,
+              "line": 154,
               "column": 13
             }
           },
@@ -5925,11 +5858,11 @@
           "description": "",
           "sourceRange": {
             "start": {
-              "line": 162,
+              "line": 161,
               "column": 12
             },
             "end": {
-              "line": 166,
+              "line": 165,
               "column": 13
             }
           },
@@ -8238,10 +8171,7 @@
               "description": "Path to array."
             },
             {
-              "name": "items",
-              "type": "...*",
-              "rest": true,
-              "description": "Items to push onto array"
+              "name": "...items"
             }
           ],
           "return": {
@@ -8312,10 +8242,7 @@
               "description": "Number of items to remove."
             },
             {
-              "name": "items",
-              "type": "...*",
-              "rest": true,
-              "description": "Items to insert into array."
+              "name": "...items"
             }
           ],
           "return": {
@@ -8376,10 +8303,7 @@
               "description": "Path to array."
             },
             {
-              "name": "items",
-              "type": "...*",
-              "rest": true,
-              "description": "Items to insert info array"
+              "name": "...items"
             }
           ],
           "return": {
@@ -8865,11 +8789,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 264,
+              "line": 269,
               "column": 6
             },
             "end": {
-              "line": 283,
+              "line": 288,
               "column": 7
             }
           },
@@ -8882,11 +8806,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 285,
+              "line": 290,
               "column": 6
             },
             "end": {
-              "line": 319,
+              "line": 324,
               "column": 7
             }
           },
@@ -8899,11 +8823,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 321,
+              "line": 326,
               "column": 6
             },
             "end": {
-              "line": 334,
+              "line": 339,
               "column": 7
             }
           },
@@ -8920,11 +8844,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 336,
+              "line": 341,
               "column": 6
             },
             "end": {
-              "line": 353,
+              "line": 358,
               "column": 7
             }
           },
@@ -8941,11 +8865,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 355,
+              "line": 360,
               "column": 6
             },
             "end": {
-              "line": 358,
+              "line": 363,
               "column": 7
             }
           },
@@ -9737,7 +9661,7 @@
           "column": 4
         },
         "end": {
-          "line": 359,
+          "line": 364,
           "column": 5
         }
       },
@@ -9798,11 +9722,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 244,
+              "line": 243,
               "column": 12
             },
             "end": {
-              "line": 247,
+              "line": 246,
               "column": 13
             }
           },
@@ -9819,11 +9743,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 252,
+              "line": 251,
               "column": 12
             },
             "end": {
-              "line": 256,
+              "line": 255,
               "column": 13
             }
           },
@@ -9841,11 +9765,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 258,
+              "line": 257,
               "column": 12
             },
             "end": {
-              "line": 258,
+              "line": 257,
               "column": 37
             }
           },
@@ -9860,11 +9784,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 263,
+              "line": 262,
               "column": 12
             },
             "end": {
-              "line": 266,
+              "line": 265,
               "column": 13
             }
           },
@@ -9881,11 +9805,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 268,
+              "line": 267,
               "column": 12
             },
             "end": {
-              "line": 270,
+              "line": 269,
               "column": 13
             }
           },
@@ -9900,11 +9824,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 272,
+              "line": 271,
               "column": 12
             },
             "end": {
-              "line": 272,
+              "line": 271,
               "column": 38
             }
           },
@@ -9919,11 +9843,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 274,
+              "line": 273,
               "column": 12
             },
             "end": {
-              "line": 274,
+              "line": 273,
               "column": 33
             }
           },
@@ -9938,11 +9862,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 276,
+              "line": 275,
               "column": 12
             },
             "end": {
-              "line": 278,
+              "line": 277,
               "column": 13
             }
           },
@@ -9959,11 +9883,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 280,
+              "line": 279,
               "column": 12
             },
             "end": {
-              "line": 282,
+              "line": 281,
               "column": 13
             }
           },
@@ -9979,11 +9903,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 284,
+              "line": 283,
               "column": 12
             },
             "end": {
-              "line": 286,
+              "line": 285,
               "column": 13
             }
           },
@@ -9998,11 +9922,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 288,
+              "line": 287,
               "column": 12
             },
             "end": {
-              "line": 290,
+              "line": 289,
               "column": 13
             }
           },
@@ -10017,11 +9941,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 292,
+              "line": 291,
               "column": 12
             },
             "end": {
-              "line": 292,
+              "line": 291,
               "column": 32
             }
           },
@@ -10036,11 +9960,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 294,
+              "line": 293,
               "column": 12
             },
             "end": {
-              "line": 294,
+              "line": 293,
               "column": 32
             }
           },
@@ -10055,11 +9979,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 299,
+              "line": 298,
               "column": 12
             },
             "end": {
-              "line": 299,
+              "line": 298,
               "column": 25
             }
           },
@@ -10074,11 +9998,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 304,
+              "line": 303,
               "column": 12
             },
             "end": {
-              "line": 304,
+              "line": 303,
               "column": 25
             }
           },
@@ -10093,11 +10017,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 306,
+              "line": 305,
               "column": 12
             },
             "end": {
-              "line": 306,
+              "line": 305,
               "column": 29
             }
           },
@@ -10112,11 +10036,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 311,
+              "line": 310,
               "column": 12
             },
             "end": {
-              "line": 311,
+              "line": 310,
               "column": 25
             }
           },
@@ -10132,11 +10056,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 315,
+              "line": 314,
               "column": 8
             },
             "end": {
-              "line": 322,
+              "line": 321,
               "column": 9
             }
           },
@@ -10149,11 +10073,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 331,
+              "line": 330,
               "column": 8
             },
             "end": {
-              "line": 337,
+              "line": 336,
               "column": 9
             }
           },
@@ -10166,11 +10090,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 339,
+              "line": 338,
               "column": 8
             },
             "end": {
-              "line": 363,
+              "line": 362,
               "column": 9
             }
           },
@@ -10183,11 +10107,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 368,
+              "line": 367,
               "column": 8
             },
             "end": {
-              "line": 370,
+              "line": 369,
               "column": 9
             }
           },
@@ -10200,11 +10124,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 375,
+              "line": 374,
               "column": 8
             },
             "end": {
-              "line": 377,
+              "line": 376,
               "column": 9
             }
           },
@@ -10224,11 +10148,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 379,
+              "line": 378,
               "column": 8
             },
             "end": {
-              "line": 381,
+              "line": 380,
               "column": 9
             }
           },
@@ -10245,11 +10169,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 383,
+              "line": 382,
               "column": 8
             },
             "end": {
-              "line": 385,
+              "line": 384,
               "column": 9
             }
           },
@@ -10266,11 +10190,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 387,
+              "line": 386,
               "column": 8
             },
             "end": {
-              "line": 391,
+              "line": 390,
               "column": 9
             }
           },
@@ -10290,11 +10214,11 @@
           "privacy": "public",
           "sourceRange": {
             "start": {
-              "line": 396,
+              "line": 395,
               "column": 8
             },
             "end": {
-              "line": 410,
+              "line": 409,
               "column": 9
             }
           },
@@ -10311,11 +10235,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 412,
+              "line": 411,
               "column": 8
             },
             "end": {
-              "line": 414,
+              "line": 413,
               "column": 9
             }
           },
@@ -10328,11 +10252,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 416,
+              "line": 415,
               "column": 8
             },
             "end": {
-              "line": 418,
+              "line": 417,
               "column": 9
             }
           },
@@ -10345,11 +10269,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 420,
+              "line": 419,
               "column": 8
             },
             "end": {
-              "line": 422,
+              "line": 421,
               "column": 9
             }
           },
@@ -10366,11 +10290,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 424,
+              "line": 423,
               "column": 8
             },
             "end": {
-              "line": 427,
+              "line": 426,
               "column": 9
             }
           },
@@ -10383,11 +10307,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 429,
+              "line": 428,
               "column": 8
             },
             "end": {
-              "line": 432,
+              "line": 431,
               "column": 9
             }
           },
@@ -10400,11 +10324,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 434,
+              "line": 433,
               "column": 8
             },
             "end": {
-              "line": 437,
+              "line": 436,
               "column": 9
             }
           },
@@ -10417,11 +10341,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 439,
+              "line": 438,
               "column": 8
             },
             "end": {
-              "line": 442,
+              "line": 441,
               "column": 9
             }
           },
@@ -10434,11 +10358,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 444,
+              "line": 443,
               "column": 8
             },
             "end": {
-              "line": 449,
+              "line": 448,
               "column": 9
             }
           },
@@ -10451,11 +10375,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 451,
+              "line": 450,
               "column": 8
             },
             "end": {
-              "line": 453,
+              "line": 452,
               "column": 9
             }
           },
@@ -10468,11 +10392,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 455,
+              "line": 454,
               "column": 8
             },
             "end": {
-              "line": 459,
+              "line": 458,
               "column": 9
             }
           },
@@ -10485,11 +10409,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 461,
+              "line": 460,
               "column": 8
             },
             "end": {
-              "line": 467,
+              "line": 466,
               "column": 9
             }
           },
@@ -10512,11 +10436,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 469,
+              "line": 468,
               "column": 8
             },
             "end": {
-              "line": 479,
+              "line": 478,
               "column": 9
             }
           },
@@ -10529,11 +10453,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 481,
+              "line": 480,
               "column": 8
             },
             "end": {
-              "line": 487,
+              "line": 486,
               "column": 9
             }
           },
@@ -10546,11 +10470,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 489,
+              "line": 488,
               "column": 8
             },
             "end": {
-              "line": 491,
+              "line": 490,
               "column": 9
             }
           },
@@ -10567,11 +10491,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 493,
+              "line": 492,
               "column": 8
             },
             "end": {
-              "line": 499,
+              "line": 498,
               "column": 9
             }
           },
@@ -10588,11 +10512,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 501,
+              "line": 500,
               "column": 8
             },
             "end": {
-              "line": 557,
+              "line": 556,
               "column": 9
             }
           },
@@ -10612,11 +10536,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 559,
+              "line": 558,
               "column": 8
             },
             "end": {
-              "line": 561,
+              "line": 560,
               "column": 9
             }
           },
@@ -10636,11 +10560,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 563,
+              "line": 562,
               "column": 8
             },
             "end": {
-              "line": 580,
+              "line": 579,
               "column": 9
             }
           },
@@ -10657,11 +10581,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 582,
+              "line": 581,
               "column": 8
             },
             "end": {
-              "line": 606,
+              "line": 605,
               "column": 9
             }
           },
@@ -10678,11 +10602,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 608,
+              "line": 607,
               "column": 8
             },
             "end": {
-              "line": 614,
+              "line": 613,
               "column": 9
             }
           },
@@ -10699,11 +10623,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 616,
+              "line": 615,
               "column": 8
             },
             "end": {
-              "line": 618,
+              "line": 617,
               "column": 9
             }
           },
@@ -10716,11 +10640,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 620,
+              "line": 619,
               "column": 8
             },
             "end": {
-              "line": 623,
+              "line": 622,
               "column": 9
             }
           },
@@ -10733,11 +10657,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 625,
+              "line": 624,
               "column": 8
             },
             "end": {
-              "line": 628,
+              "line": 627,
               "column": 9
             }
           },
@@ -10750,11 +10674,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 630,
+              "line": 629,
               "column": 8
             },
             "end": {
-              "line": 632,
+              "line": 631,
               "column": 9
             }
           },
@@ -10767,11 +10691,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 634,
+              "line": 633,
               "column": 8
             },
             "end": {
-              "line": 639,
+              "line": 638,
               "column": 9
             }
           },
@@ -10788,11 +10712,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 641,
+              "line": 640,
               "column": 8
             },
             "end": {
-              "line": 645,
+              "line": 644,
               "column": 9
             }
           },
@@ -10809,11 +10733,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 647,
+              "line": 646,
               "column": 8
             },
             "end": {
-              "line": 649,
+              "line": 648,
               "column": 9
             }
           },
@@ -10830,11 +10754,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 651,
+              "line": 650,
               "column": 8
             },
             "end": {
-              "line": 656,
+              "line": 655,
               "column": 9
             }
           },
@@ -10851,11 +10775,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 658,
+              "line": 657,
               "column": 8
             },
             "end": {
-              "line": 661,
+              "line": 660,
               "column": 9
             }
           },
@@ -10875,11 +10799,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 663,
+              "line": 662,
               "column": 8
             },
             "end": {
-              "line": 665,
+              "line": 664,
               "column": 9
             }
           },
@@ -10899,11 +10823,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 667,
+              "line": 666,
               "column": 8
             },
             "end": {
-              "line": 670,
+              "line": 669,
               "column": 9
             }
           },
@@ -10916,11 +10840,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 672,
+              "line": 671,
               "column": 8
             },
             "end": {
-              "line": 674,
+              "line": 673,
               "column": 9
             }
           },
@@ -10933,11 +10857,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 676,
+              "line": 675,
               "column": 8
             },
             "end": {
-              "line": 679,
+              "line": 678,
               "column": 9
             }
           },
@@ -10950,11 +10874,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 681,
+              "line": 680,
               "column": 8
             },
             "end": {
-              "line": 683,
+              "line": 682,
               "column": 9
             }
           },
@@ -10971,11 +10895,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 688,
+              "line": 687,
               "column": 8
             },
             "end": {
-              "line": 697,
+              "line": 696,
               "column": 9
             }
           },
@@ -10992,11 +10916,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 699,
+              "line": 698,
               "column": 8
             },
             "end": {
-              "line": 790,
+              "line": 789,
               "column": 9
             }
           },
@@ -11013,11 +10937,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 792,
+              "line": 791,
               "column": 8
             },
             "end": {
-              "line": 794,
+              "line": 793,
               "column": 9
             }
           },
@@ -11030,11 +10954,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 796,
+              "line": 795,
               "column": 8
             },
             "end": {
-              "line": 822,
+              "line": 821,
               "column": 9
             }
           },
@@ -11051,11 +10975,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 824,
+              "line": 823,
               "column": 8
             },
             "end": {
-              "line": 855,
+              "line": 854,
               "column": 9
             }
           },
@@ -11072,11 +10996,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 857,
+              "line": 856,
               "column": 8
             },
             "end": {
-              "line": 883,
+              "line": 882,
               "column": 9
             }
           },
@@ -11096,11 +11020,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 885,
+              "line": 884,
               "column": 8
             },
             "end": {
-              "line": 887,
+              "line": 886,
               "column": 9
             }
           },
@@ -11123,11 +11047,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 889,
+              "line": 888,
               "column": 8
             },
             "end": {
-              "line": 896,
+              "line": 895,
               "column": 9
             }
           },
@@ -11147,11 +11071,11 @@
           "privacy": "protected",
           "sourceRange": {
             "start": {
-              "line": 898,
+              "line": 897,
               "column": 8
             },
             "end": {
-              "line": 900,
+              "line": 899,
               "column": 9
             }
           },
@@ -11168,11 +11092,11 @@
       "metadata": {},
       "sourceRange": {
         "start": {
-          "line": 233,
+          "line": 232,
           "column": 6
         },
         "end": {
-          "line": 901,
+          "line": 900,
           "column": 7
         }
       },
@@ -11185,11 +11109,11 @@
           "description": "The value for this element.",
           "sourceRange": {
             "start": {
-              "line": 244,
+              "line": 243,
               "column": 12
             },
             "end": {
-              "line": 247,
+              "line": 246,
               "column": 13
             }
           },
@@ -11201,11 +11125,11 @@
           "description": "Date value which is focused using keyboard.",
           "sourceRange": {
             "start": {
-              "line": 252,
+              "line": 251,
               "column": 12
             },
             "end": {
-              "line": 256,
+              "line": 255,
               "column": 13
             }
           },
@@ -11217,11 +11141,11 @@
           "description": "Date which should be visible when there is no value selected.",
           "sourceRange": {
             "start": {
-              "line": 263,
+              "line": 262,
               "column": 12
             },
             "end": {
-              "line": 266,
+              "line": 265,
               "column": 13
             }
           },
@@ -11233,11 +11157,11 @@
           "description": "",
           "sourceRange": {
             "start": {
-              "line": 284,
+              "line": 283,
               "column": 12
             },
             "end": {
-              "line": 286,
+              "line": 285,
               "column": 13
             }
           },
@@ -11249,11 +11173,11 @@
           "description": "",
           "sourceRange": {
             "start": {
-              "line": 288,
+              "line": 287,
               "column": 12
             },
             "end": {
-              "line": 290,
+              "line": 289,
               "column": 13
             }
           },
@@ -11265,11 +11189,11 @@
           "description": "The earliest date that can be selected. All earlier dates will be disabled.",
           "sourceRange": {
             "start": {
-              "line": 299,
+              "line": 298,
               "column": 12
             },
             "end": {
-              "line": 299,
+              "line": 298,
               "column": 25
             }
           },
@@ -11281,11 +11205,11 @@
           "description": "The latest date that can be selected. All later dates will be disabled.",
           "sourceRange": {
             "start": {
-              "line": 304,
+              "line": 303,
               "column": 12
             },
             "end": {
-              "line": 304,
+              "line": 303,
               "column": 25
             }
           },
@@ -11297,11 +11221,11 @@
           "description": "Input label",
           "sourceRange": {
             "start": {
-              "line": 311,
+              "line": 310,
               "column": 12
             },
             "end": {
-              "line": 311,
+              "line": 310,
               "column": 25
             }
           },
